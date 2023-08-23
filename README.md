@@ -1,2 +1,2 @@
 # SpringSecurity
-Practising Spring Security 
+exc Spring Security 
